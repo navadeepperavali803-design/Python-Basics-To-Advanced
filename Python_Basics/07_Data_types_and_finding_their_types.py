@@ -1,0 +1,18 @@
+a=10
+print(type(a))
+b=10.05
+print(type(b))
+name='Navadeep'
+print(type(name))
+c=True
+print(type(c))
+d=[10,22,33]
+print(type(d))
+e=(11,12,23)
+print(type(e))
+f={11,23,344,45}
+print(type(f))
+g={
+    "name":'navadeep'
+}
+print(type(g))
