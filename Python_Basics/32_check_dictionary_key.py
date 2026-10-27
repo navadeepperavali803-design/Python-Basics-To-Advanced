@@ -1,6 +1,6 @@
 student={
     "name":"navadeep",
-    "vayasu":18,
+    "age":18,
     "course":"cse-ai",
     "college":"mits",
 }
